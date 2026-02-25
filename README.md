@@ -483,7 +483,7 @@ Creator workflow scripts receive field values as strings, not booleans. Comparin
 ## 📬 Contact & Community
 
 - **LinkedIn:** [Rafiullah Nikzad](https://www.linkedin.com/in/rafiullahnikzad)
-- **Community:** [Zoho Afghanistan — 10,000+ Members](https://www.linkedin.com/groups/)
+- **Community:** [Zoho Afghanistan — 10,00+ Members](https://www.linkedin.com/groups/)
 - **Portfolio:** [rafiullahnikzad.netlify.app](https://rafiullahnikzad.netlify.app)
 - **GitHub:** [55+ Free Deluge Scripts](https://github.com/rafiullahnikzad)
 
